@@ -1,0 +1,49 @@
+00:00:00.001976 main     VirtualBox XPCOM Server 7.1.10 r169112 linux.amd64 (Jun  3 2025 19:52:37) release log
+00:00:00.001979 main     Log opened 2025-07-02T13:57:29.639520000Z
+00:00:00.001979 main     Build Type: release
+00:00:00.001981 main     OS Product: Linux
+00:00:00.001982 main     OS Release: 6.15.4-arch2-1
+00:00:00.001982 main     OS Version: #1 SMP PREEMPT_DYNAMIC Fri, 27 Jun 2025 16:35:07 +0000
+00:00:00.002022 main     DMI Product Name: HP Dragonfly Pro Laptop PC
+00:00:00.002032 main     DMI Product Version: Type1ProductConfigId
+00:00:00.002039 main     Firmware type: UEFI
+00:00:00.002287 main     Secure Boot: Disabled
+00:00:00.002338 main     Host RAM: 31258MB (30.5GB) total, 29081MB (28.3GB) available
+00:00:00.002341 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.002341 main     Process ID: 31897
+00:00:00.002341 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.006623 main     IPC socket path: /tmp/.vbox-shinra-ipc/ipcd
+00:00:00.042280 DCon01   VirtualBox: object creation starts
+00:00:00.043835 DCon01   Home directory: '/home/shinra/.config/VirtualBox'
+00:00:00.044593 DCon01   Loading settings file "/home/shinra/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.051671 DCon01   USB: Unknown USB device detected (idVendor: 0x06cb, idProduct: 0x015f)
+00:00:00.051891 DCon01   USB: Unknown USB device detected (idVendor: 0x10ab, idProduct: 0x9109)
+00:00:00.052056 DCon01   Successfully initialised host USB using sysfs
+00:00:00.068053 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.070393 DCon01   HostDnsMonitor: initializing
+00:00:00.070707 DCon01   NAT: resolv.conf: nameserver 4.2.2.2
+00:00:00.070714 DCon01   NAT: resolv.conf: nameserver 8.8.8.8
+00:00:00.070743 DCon01   HostDnsMonitor: updating information
+00:00:00.070756 DCon01   HostDnsMonitor: old information
+00:00:00.070758 DCon01     no server entries
+00:00:00.070759 DCon01     no domain set
+00:00:00.070761 DCon01     no search string entries
+00:00:00.070762 DCon01   HostDnsMonitor: new information
+00:00:00.070764 DCon01     server 1: 4.2.2.2
+00:00:00.070765 DCon01     server 2: 8.8.8.8
+00:00:00.070767 DCon01     no domain set
+00:00:00.070768 DCon01     no search string entries
+00:00:00.076148 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.076856 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.079613 DCon01   Platform architecture set to 'x86'
+00:00:00.082350 DCon01   Loading settings file "/home/shinra/storage/VirtualBox VMs/KaliLinux/KaliLinux.vbox" with version "1.19-linux"
+00:00:00.082564 DCon01   Platform architecture set to 'x86'
+00:00:00.083298 DCon01   VirtualBox: object created
+00:00:00.891569 DCon18   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:00.974730 DCon03   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:10.262657 main     VirtualBox: object deletion starts
+00:00:10.262776 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/shinra/storage/VirtualBox VMs/KaliLinux/KaliLinux.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:10.263853 main     HostDnsMonitor: shutting down ...
+00:00:10.269691 main     HostDnsMonitor: shut down
+00:00:10.285631 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:10.285840 main     VirtualBox: object deleted

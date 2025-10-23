@@ -1,0 +1,19 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Large caches/logs
+.cache/*
+!.cache/wal/**
+
+# Build/temp
+*.tmp
+*.swp
+*.swo
+
+# Screenshots can be big; keep them if you want
+# screenshots/*
+
+# Node/Python junk if any subfolders have projects
+node_modules/
+__pycache__/

@@ -1,0 +1,24 @@
+[2025-Jun-23 21:35:43.502 -05:00][61494:61494][info ] Logging initialized
+[2025-Jun-23 21:35:43.502 -05:00][61494:61494][info ] Initializing krisp SDK...
+[2025-Jun-23 21:35:43.502 -05:00][61494:61494][info ] DoKrispInitialize
+[2025-Jun-23 21:35:43.985 -05:00][61494:61494][info ] LoadDynamicKrisp
+[2025-Jun-23 21:35:43.985 -05:00][61494:61494][info ] Did not find KRISP_DYLIB_PATH, skipping dynamic loading
+[2025-Jun-23 21:35:43.985 -05:00][61494:61494][info ] Initializing Krisp SDK in PID 61494, addr 0x7f5ba998d8e0
+[2025-Jun-23 21:35:44.193 -05:00][61494:61494][info ] Initialized Krisp SDK successfully
+[2025-Jun-23 21:35:44.193 -05:00][61494:61494][info ] Krisp SDK initialized
+[2025-Aug-22 06:49:14.682 -05:00][32942:32942][info ] Logging initialized
+[2025-Aug-22 06:49:14.682 -05:00][32942:32942][info ] Initializing krisp SDK...
+[2025-Aug-22 06:49:14.682 -05:00][32942:32942][info ] DoKrispInitialize
+[2025-Aug-22 06:49:15.096 -05:00][32942:32942][info ] LoadDynamicKrisp
+[2025-Aug-22 06:49:15.096 -05:00][32942:32942][info ] Did not find KRISP_DYLIB_PATH, skipping dynamic loading
+[2025-Aug-22 06:49:15.096 -05:00][32942:32942][info ] Initializing Krisp SDK in PID 32942, addr 0x7f1477124a50
+[2025-Aug-22 06:49:15.097 -05:00][32942:32942][info ] Initialized Krisp SDK successfully
+[2025-Aug-22 06:49:15.097 -05:00][32942:32942][info ] Krisp SDK initialized
+[2025-Aug-26 14:45:16.772 -05:00][147312:147312][info ] Logging initialized
+[2025-Aug-26 14:45:16.772 -05:00][147312:147312][info ] Initializing krisp SDK...
+[2025-Aug-26 14:45:16.772 -05:00][147312:147312][info ] DoKrispInitialize
+[2025-Aug-26 14:45:17.096 -05:00][147312:147312][info ] LoadDynamicKrisp
+[2025-Aug-26 14:45:17.096 -05:00][147312:147312][info ] Did not find KRISP_DYLIB_PATH, skipping dynamic loading
+[2025-Aug-26 14:45:17.096 -05:00][147312:147312][info ] Initializing Krisp SDK in PID 147312, addr 0x7fde3ab248d0
+[2025-Aug-26 14:45:17.105 -05:00][147312:147312][info ] Initialized Krisp SDK successfully
+[2025-Aug-26 14:45:17.105 -05:00][147312:147312][info ] Krisp SDK initialized

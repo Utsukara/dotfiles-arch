@@ -1,0 +1,22 @@
+00:00:00.413279 VirtualBox GUI VM Selector Window 7.1.10 r169112 linux.amd64 (Jun  3 2025 19:52:37) release log
+00:00:00.413281 Log opened 2025-07-02T13:57:29.875619000Z
+00:00:00.413282 Build Type: release
+00:00:00.413285 OS Product: Linux
+00:00:00.413285 OS Release: 6.15.4-arch2-1
+00:00:00.413286 OS Version: #1 SMP PREEMPT_DYNAMIC Fri, 27 Jun 2025 16:35:07 +0000
+00:00:00.413331 DMI Product Name: HP Dragonfly Pro Laptop PC
+00:00:00.413345 DMI Product Version: Type1ProductConfigId
+00:00:00.413353 Firmware type: UEFI
+00:00:00.413535 Secure Boot: Disabled
+00:00:00.413593 Host RAM: 31258MB (30.5GB) total, 29076MB (28.3GB) available
+00:00:00.413596 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.413597 Process ID: 31860
+00:00:00.413597 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.413637 Qt version: 6.9.1
+00:00:00.416532 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.427453 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.013309 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:04.834782 GUI: UIInvisibleWindow::sltFallback: Move event missing. Screen: 0, work area: 959x599 x 800x800
+00:00:04.834822 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 959x599 x 800x800
+00:00:04.841414 GUI: UICommon: Handling aboutToQuit request..
+00:00:05.445773 GUI: UICommon: aboutToQuit request handled!
